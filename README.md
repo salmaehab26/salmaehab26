@@ -1,6 +1,6 @@
-Hi, I'm Salma Ehab 👋
-
-Flutter Developer • Android developer
+                                                             **Hi, I'm Salma Ehab 👋**
+                                                  ---------------------------------------------
+                                                       Flutter Developer • Android developer
 
 🚀 About Me
 
