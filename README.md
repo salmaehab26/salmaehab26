@@ -1,5 +1,5 @@
 
-                                                          # Hi, I'm **Salma Ehab** 👋
+                                                  Hi, I'm Salma Ehab 👋
 
 > *Flutter Developer • Android developer*
 
